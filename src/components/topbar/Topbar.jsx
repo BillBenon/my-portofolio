@@ -9,16 +9,17 @@ export default function Topbar() {
             <div className="wrapper">
                 <div className="left">
                     <a href="#intro" className="logo">Bill</a>
-                </div>
-                <div className="right">
                     <div className="itemContainer">
-                        <Person />
+                        <Person className="icon" />
                         <span>+250 785 867 199</span>
                     </div>
                     <div className="itemContainer">
-                        <Mail />
+                    <Mail className="icon" />
                         <span>DushimeBillBenon@gmail.com</span>
                     </div>
+                </div>
+                <div className="right">
+                    
                 </div>
             </div>
         </div>
