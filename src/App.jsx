@@ -1,12 +1,13 @@
 import { useState } from "react";
 
+import "./app.scss";
 import Topbar from "./components/topbar/Topbar";
 import Intro from "./components/intro/Intro";
 import Portofolio from "./components/portofolio/Portofolio";
 import Works from "./components/works/Works";
 import Testimonials from "./components/testimonials/Testimonials";
 import Contact from "./components/contact/Contact";
-import "./app.scss";
+import { Menu } from "@material-ui/core";
 
 
 function App() {
@@ -15,6 +16,7 @@ function App() {
   return (
     <div className="app">
       <Topbar menuOpen={menuOpen} setMenuOpen={setMenuOpen} />
+      <Menu />
       <div className="sections">
         <Intro />
         <Portofolio />
