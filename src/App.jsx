@@ -7,7 +7,7 @@ import Portofolio from "./components/portofolio/Portofolio";
 import Works from "./components/works/Works";
 import Testimonials from "./components/testimonials/Testimonials";
 import Contact from "./components/contact/Contact";
-import { Menu } from "@material-ui/core";
+import Menu from "./components/menu/Menu";
 
 
 function App() {
