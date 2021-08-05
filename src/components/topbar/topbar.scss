@@ -43,5 +43,19 @@
         }
       }
     }
+
+    .right {
+      .hamburger {
+        width: 32px;
+        height: 25px;
+        display: flex;
+
+        span {
+          width: 100%;
+          height: 3px;
+          background-color: $mainColor;
+        }
+      }
+    }
   }
 }
