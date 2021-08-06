@@ -7,7 +7,7 @@ export default function Portofolio() {
         <div className="portofolio" id="portofolio">
             <h1>Portofolio</h1>
             <ul>
-                <li>Featured</li>
+                <li className="active">Featured</li>
                 <li>Web App</li>
                 <li>Mobile App</li>
                 <li>Desktop App</li>
