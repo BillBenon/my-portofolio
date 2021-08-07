@@ -27,13 +27,14 @@
 
         .left {
           flex: 4;
-          height: 100%;
-          background-color: yellowgreen;
+          height: 80%;
+          display: flex;
+          align-items: center;
+          justify-content: center;
         }
         .right {
           flex: 8;
           height: 100%;
-          background-color: yellow;
         }
       }
     }
