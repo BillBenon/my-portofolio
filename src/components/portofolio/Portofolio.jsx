@@ -5,7 +5,8 @@ import {
     featuredPortfolio,
     mobilePortfolio,
     designPortfolio,
-    contentPortfolio
+    contentPortfolio,
+    webPortfolio
 } from '../../data';
 import "./portofolio.scss";
 
@@ -41,6 +42,20 @@ export default function Portofolio() {
             case "featured":
                 setData(featuredPortfolio);
                 break;
+            case "web":
+                setData(webPortfolio);
+                break;
+            case "mobile":
+                setData(mobilePortfolio);
+                break;
+            case "design":
+                setData(designPortfolio);
+                break;
+            case "content":
+                setData(contentPortfolio);
+                break;
+            default:
+                setData(featuredPortfolio);
         }
     }, [selected])
 
