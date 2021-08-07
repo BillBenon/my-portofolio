@@ -81,7 +81,7 @@ export const featuredPortfolio = [
       id: 2,
       title: "Mobile Rampa UI Design",
       img:
-        "https://cdn.dribbble.com/users/5920881/screenshots/15463142/media/b5a460223798bd85d835710806e2f3dd.png?compress=1&resize=1200x900",
+        "https://cdn.dribbble.com/users/1615584/screenshots/15931039/media/4e9ad324083fbd6c47bf538039d861cf.jpg?compress=1&resize=1200x900",
     },
     {
       id: 3,
@@ -114,37 +114,37 @@ export const featuredPortfolio = [
       id: 1,
       title: "Design Social Media App",
       img:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
+        "https://cdn.dribbble.com/users/14268/screenshots/15890756/media/511f84415144cd4a0dc622a618d18370.png?compress=1&resize=1200x900",
     },
     {
       id: 2,
       title: "Design Rampa UI Design",
       img:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
+        "https://cdn.dribbble.com/users/14268/screenshots/15890698/media/bca77d8f9fb771d57e792b2bf53d891a.png?compress=1&resize=1200x900",
     },
     {
       id: 3,
       title: "Design E-commerce Web Design",
       img:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
+        "https://cdn.dribbble.com/users/14268/screenshots/15868563/media/37a9f1af23b3e4b55c1471466c0b07ac.png?compress=1&resize=1200x900",
     },
     {
       id: 4,
       title: "Design Relax Mobile App",
       img:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
+        "https://cdn.dribbble.com/users/946315/screenshots/15656234/media/539dddb267b1683e7ffb148b2f33c255.png?compress=1&resize=1200x900",
     },
     {
       id: 5,
       title: "Design Keser Web Design",
       img:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
+        "https://cdn.dribbble.com/users/4682699/screenshots/15123604/media/806a595b817561f46b1a0f12f858185e.png?compress=1&resize=1200x900",
     },
     {
       id: 6,
       title: "Design Banking App",
       img:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
+        "https://cdn.dribbble.com/users/4682699/screenshots/15096199/media/195c001ba36a2169a01afba13691acb4.png?compress=1&resize=1200x900",
     },
   ];
   
@@ -153,36 +153,36 @@ export const featuredPortfolio = [
       id: 1,
       title: "Content Social Media App",
       img:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
+        "https://cdn.dribbble.com/users/427857/screenshots/15681227/media/6fc41338e27daf2d4700b24cb1162367.png?compress=1&resize=1200x900",
     },
     {
       id: 2,
       title: "Content Rampa UI Design",
       img:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
+        "https://cdn.dribbble.com/users/1069526/screenshots/15841569/media/114a12f384f53aa994277e59c9926382.jpg?compress=1&resize=1200x900",
     },
     {
       id: 3,
       title: "Content E-commerce Web Design",
       img:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
+        "https://cdn.dribbble.com/users/1644453/screenshots/14852973/media/d96fd09ddf0032583e237e26bd477b1a.png?compress=1&resize=1200x900",
     },
     {
       id: 4,
       title: "Content Relax Mobile App",
       img:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
+        "https://cdn.dribbble.com/users/3375201/screenshots/15849030/media/9a70a3bbe66853bc8aec151c11fe89f4.png?compress=1&resize=1200x900",
     },
     {
       id: 5,
       title: "Content Keser Web Design",
       img:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
+        "https://cdn.dribbble.com/users/1756963/screenshots/15425242/media/1acd03c0cb379185e6268d5898ca9780.png?compress=1&resize=1200x900",
     },
     {
       id: 6,
       title: "Content Banking App",
       img:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
+        "https://cdn.dribbble.com/users/2498386/screenshots/15102926/media/0b5558eab4c5fb899b7c7a7db0d2f247.png?compress=1&resize=1200x900",
     },
   ];

@@ -73,30 +73,16 @@ export default function Portofolio() {
                 ))}
             </ul>
             <div className="container">
-                <div className="item">
-                    <img src="https://mk0appinventiv4394ey.kinstacdn.com/wp-content/uploads/sites/1/2021/01/banking-app-development-cost.png" alt="" />
-                    <h3>Banking App</h3>
-                </div>
-                <div className="item">
-                    <img src="https://mk0appinventiv4394ey.kinstacdn.com/wp-content/uploads/sites/1/2021/01/banking-app-development-cost.png" alt="" />
-                    <h3>Banking App</h3>
-                </div>
-                <div className="item">
-                    <img src="https://mk0appinventiv4394ey.kinstacdn.com/wp-content/uploads/sites/1/2021/01/banking-app-development-cost.png" alt="" />
-                    <h3>Banking App</h3>
-                </div>
-                <div className="item">
-                    <img src="https://mk0appinventiv4394ey.kinstacdn.com/wp-content/uploads/sites/1/2021/01/banking-app-development-cost.png" alt="" />
-                    <h3>Banking App</h3>
-                </div>
-                <div className="item">
-                    <img src="https://mk0appinventiv4394ey.kinstacdn.com/wp-content/uploads/sites/1/2021/01/banking-app-development-cost.png" alt="" />
-                    <h3>Banking App</h3>
-                </div>
-                <div className="item">
-                    <img src="https://mk0appinventiv4394ey.kinstacdn.com/wp-content/uploads/sites/1/2021/01/banking-app-development-cost.png" alt="" />
-                    <h3>Banking App</h3>
-                </div>
+                {data.map((d) => (
+                    <div className="item">
+                        <img 
+                            src={d.img}
+                            alt="" 
+                        />
+                        <h3>{d.title}</h3>
+                    </div>
+                ))}
+                
             </div>
         </div>
     )
