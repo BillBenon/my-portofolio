@@ -21,7 +21,9 @@ export default function Works() {
                                 <span>Projects</span>
                             </div>
                         </div>
-                        <div className="right"></div>
+                        <div className="right">
+                            <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190626123927/untitlsssssed.png" alt="" />
+                        </div>
                     </div>
                 </div>
             </div>
