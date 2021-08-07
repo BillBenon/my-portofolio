@@ -2,9 +2,11 @@ import React from 'react';
 
 import "./portofolioList.scss";
 
-export default function PortofolioList({title}) {
+export default function PortofolioList({ id, title, active, setSelected }) {
     return (
-        <li className="portofolioList">
+        <li 
+            className={active ? "portofolioList active" : "portofolioList"} 
+            onClick={() => setSelected(id)}>
             {title}
         </li>
     )
