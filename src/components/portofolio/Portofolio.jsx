@@ -11,6 +11,7 @@ import "./portofolio.scss";
 
 export default function Portofolio() {
     const [selected, setSelected] = useState("featured");
+    const [data, setData] = useState([]);
 
     const list = [
         {
@@ -33,7 +34,16 @@ export default function Portofolio() {
             id: "content",
             title: "Content",
         },
-    ]
+    ];
+
+    useEffect(() => {
+        switch(selected) {
+            case "featured":
+                setData(featuredPortfolio);
+                break;
+        }
+    }, [selected])
+
     return (
         <div className="portofolio" id="portofolio">
             <h1>Portofolio</h1>
